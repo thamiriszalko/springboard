@@ -1,1 +1,1 @@
-# springboard-assessments
+# springboard-exercises
