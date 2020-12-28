@@ -30,3 +30,6 @@ class SerialGenerator:
 
     def reset(self):
         self._next = self._start
+        
+    def __repr__(self):
+        return f"<SerialGenerator start={self._start} next={self._next}>"
